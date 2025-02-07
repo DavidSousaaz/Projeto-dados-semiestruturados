@@ -39,7 +39,7 @@ public class TelaMenu extends JFrame {
 		jbListar.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				dispose();
-				new TelaLista("");
+				new TelaLista();
 			}
 		});
 		add(jbListar);

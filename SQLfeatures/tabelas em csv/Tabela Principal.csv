@@ -1,0 +1,99 @@
+Reino,Especie,Nome_Comum,Grupo,Mes_Ano_Avaliacao,Endemica_Brasil,Consta_em_Lista_Nacional_Oficial,Bioma,Bacia_Hidrografica
+Animalia,Adelpha atlantica,Borboleta,Invertebrados Terrestres,04/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ Sub-bacia Paraíba do Sul
+Animalia,Alopias superciliosus,tubarão-rabudo' tubarão-raposa' tubarão-raposa-olhudo,Tubarões e Raias,11/2017,Não,Sim,Sistema Costeiro-Marinho,Não Consta
+Animalia,Alopias vulpinus,tubarão-rabudo' tubarão-raposa' tubarão-saltador,Tubarões e Raias,11/2017,Não,Sim,Sistema Costeiro-Marinho,Não Consta
+Animalia,Aburria cujubi,cujubi,Aves,09/2017,Não,Sim,Amazônia' Cerrado' Pantanal,Sub-bacia Araguaia Sub-bacia Foz Amazonas Sub-bacia Gurupi Sub-bacia Madeira Sub-bacia Mearim Sub-bacia Paraguai 02 Sub-bacia Paraguai 03 Sub-bacia Paraná RH1 Sub-bacia Paru Sub-bacia Tapajós Sub-bacia Tocantins Alto Sub-bacia Tocantins Baixo Sub-bacia Trombetas Sub-bacia Xingu
+Animalia,Aratinga solstitialis,jandaia-amarela,Aves,08/2018,Não,Sim,Amazônia,Sub-bacia Negro
+Animalia,Alectrurus tricolor,galito,Aves,10/2018,Não,Sim,Cerrado' Mata Atlântica' Pantanal,Sub-bacia Grande Sub-bacia Paraguai 01 Sub-bacia Paraguai 02 Sub-bacia Paraíba do Sul Sub-bacia Paranaíba Sub-bacia Paranapanema Sub-bacia Paraná RH1 Sub-bacia São Francisco Alto Sub-bacia São Francisco Médio Sub-bacia Tietê Sub-bacia Tocantins Alto
+Animalia,Antilophia bokermanni,soldadinho-do-araripe,Aves,11/2016,Sim,Sim,Caatinga,Sub-bacia Jaguaribe
+Animalia,Anodorhynchus leari,arara-azul-de-lear,Aves,11/2016,Sim,Sim,Caatinga,Sub-bacia Itapecuru-Paraguaçu Sub-bacia Litoral SE Sub-bacia São Francisco Médio Sub-bacia São Francisco Submédio
+Animalia,Acherontides eleonorae,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ SP
+Animalia,Aegla cavernicola,Não Consta,Invertebrados de Água Doce,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ SP
+Animalia,Aegla leptochela,Não Consta,Invertebrados de Água Doce,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ SP
+Animalia,Aegla microphthalma,Não Consta,Invertebrados de Água Doce,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ SP
+Animalia,Amazoniscus leistikowi,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Amazônia,Sub-bacia Xingu
+Animalia,Archolaemus ferreirai,Não Consta,Peixes Continentais,05/2018,Sim,Sim,Amazônia,Sub-bacia Negro
+Animalia,Archolaemus santosi,Não Consta,Peixes Continentais,05/2018,Sim,Sim,Amazônia,Sub-bacia Madeira
+Animalia,Arrhopalites alambariensis,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ SP Sub-bacia Litoral SP
+Animalia,Arrhopalites amorimi,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ SP Sub-bacia Litoral SP
+Animalia,Arrhopalites botuveraensis,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral SP PR SC
+Animalia,Arrhopalites gnaspinii,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ SP Sub-bacia Litoral SP
+Animalia,Arrhopalites heteroculatus,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ SP Sub-bacia Litoral SP
+Animalia,Arrhopalites lawrencei,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ SP Sub-bacia Litoral SP
+Animalia,Arrhopalites paranaensis,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ Sub-bacia Litoral RJ SP Sub-bacia Litoral SP
+Animalia,Anabazenops dorsalis,barranqueiro-de-topete,Aves,08/2018,Não,Sim,Amazônia,Sub-bacia Madeira Sub-bacia Purus Sub-bacia Tapajós
+Animalia,Arremonops conirostris,tico-tico-cantor,Aves,08/2018,Não,Sim,Amazônia,Sub-bacia Negro
+Animalia,Aegla charon,Não Consta,Invertebrados de Água Doce,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Paranapanema
+Animalia,Adelophryne maranguapensis,Rãnzinha-pulga,Anfíbios,09/2018,Sim,Sim,Caatinga,Sub-bacia Litoral CE PI
+Animalia,Archisotoma arariboia,Colêmbolo' Pulga-de-jardim,Invertebrados Terrestres,05/2018,Sim,Sim,Não Consta,Sub-bacia Litoral RJ
+Animalia,Arrhopalites glabrofasciatus,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Cerrado' Mata Atlântica,Sub-bacia Doce Sub-bacia São Francisco Alto
+Animalia,Archisotoma catiae,Colêmbolo' Pulga-de-jardim,Invertebrados Terrestres,05/2018,Sim,Sim,Não Consta,Não Consta
+Animalia,Aethiopella littoralis,Colêmbolo' Pulga-de-jardim,Invertebrados Terrestres,05/2018,Sim,Sim,Mata Atlântica,Sub-bacia Litoral RJ
+Animalia,Agraphorura mariapetrae,Colêmbolo' Pulga-de-jardim,Invertebrados Terrestres,05/2018,Não,Sim,Não Consta,Sub-bacia Litoral RJ
+Animalia,Arlea arenicola,Colêmbolo' Pulga-de-jardim,Invertebrados Terrestres,05/2018,Sim,Sim,Não Consta,Não Consta
+Animalia,Arlesia intermedia,Colêmbolo' Pulga-de-jardim,Invertebrados Terrestres,05/2018,Sim,Sim,Não Consta,Sub-bacia Litoral RJ
+Animalia,Arlea psammophila,Colêmbolo' Pulga-de-jardim,Invertebrados Terrestres,05/2018,Sim,Sim,Não Consta,Não Consta
+Animalia,Ariadna aurea,Não Consta,Invertebrados Terrestres,05/2018,Sim,Sim,Caatinga,Sub-bacia São Francisco Médio
+Animalia,Anomaloglossus apiau,Não Consta,Anfíbios,06/2017,Sim,Sim,Amazônia,Sub-bacia Negro
+Animalia,Anomaloglossus tepequem,Não Consta,Anfíbios,06/2017,Sim,Sim,Amazônia,Sub-bacia Negro
+Animalia,Ancistrus minutus,Não Consta,Peixes Continentais,11/2018,Sim,Sim,Cerrado,Sub-bacia Tocantins Alto
+Animalia,Akodon mystax,Caparaó Grass Mouse' Rato-do-chão do Caparaó,Mamíferos,06/2013,Sim,Não,Não Consta,Não Consta
+Animalia,Aegla renana,Egla,Invertebrados Marinhos,09/2010,Sim,Não,Mata Atlântica,Não Consta
+Animalia,Aegla brevipalma,Egla,Invertebrados de Água Doce,10/2019,Sim,Sim,Mata Atlântica,Sub-bacia Uruguai Alto
+Animalia,Aegla camargoi,Egla,Invertebrados de Água Doce,10/2019,Sim,Sim,Mata Atlântica,Sub-bacia Guaíba Sub-bacia Litoral SP PR SC Sub-bacia Uruguai Alto
+Animalia,Aegla franca,Egla,Invertebrados Marinhos,09/2013,Sim,Não,Não Consta,Não Consta
+Animalia,Aegla inconspicua,Egla,Invertebrados de Água Doce,10/2019,Sim,Sim,Mata Atlântica' Pampa,Sub-bacia Guaíba
+Animalia,Aegla inermis,Egla,Invertebrados de Água Doce,10/2019,Sim,Sim,Mata Atlântica,Sub-bacia Guaíba Sub-bacia Litoral RS
+Animalia,Aegla itacolomiensis,Egla,Invertebrados de Água Doce,10/2019,Sim,Sim,Mata Atlântica' Pampa,Sub-bacia Guaíba
+Animalia,Aegla leachi,Egla,Invertebrados de Água Doce,10/2019,Sim,Sim,Mata Atlântica,Sub-bacia Uruguai Alto
+Animalia,Aegla leptodactyla,Egla,Invertebrados Marinhos,09/2013,Sim,Não,Mata Atlântica,Não Consta
+Animalia,Aegla manuinflata,Egla,Invertebrados de Água Doce,10/2019,Sim,Sim,Mata Atlântica' Pampa,Sub-bacia Ibicuí
+Animalia,Aegla oblata,Egla,Invertebrados de Água Doce,10/2019,Sim,Sim,Mata Atlântica,Sub-bacia Uruguai Alto
+Animalia,Aegla obstipa,Egla,Invertebrados de Água Doce,10/2019,Sim,Sim,Pampa,Sub-bacia Guaíba Sub-bacia Litoral RS
+Animalia,Aegla perobae,Egla,Invertebrados Marinhos,09/2010,Sim,Não,Não Consta,Não Consta
+Animalia,Aegla violacea,Egla,Invertebrados de Água Doce,10/2019,Sim,Sim,Pampa,Sub-bacia Guaíba
+Animalia,Aburria jacutinga,jacutinga,Aves,06/2019,Não,Sim,Cerrado' Mata Atlântica' Sistema Costeiro-Marinho,Sub-bacia Doce Sub-bacia Grande Sub-bacia Iguaçu Sub-bacia Litoral RJ Sub-bacia Litoral RJ SP Sub-bacia Litoral SP Sub-bacia Litoral SP PR SC Sub-bacia Paraíba do Sul Sub-bacia Paranapanema Sub-bacia Paraná RH1 Sub-bacia Tietê Sub-bacia Uruguai Médio
+Animalia,Acrobatornis fonsecai,acrobata,Aves,06/2019,Sim,Sim,Mata Atlântica,Sub-bacia Contas Sub-bacia Jequitinhonha
+Animalia,Amadonastur lacernulatus,gavião-pombo-pequeno,Aves,06/2019,Sim,Sim,Caatinga' Cerrado' Mata Atlântica,Sub-bacia Contas Sub-bacia Doce Sub-bacia Grande Sub-bacia Iguaçu Sub-bacia Jequitinhonha Sub-bacia Litoral BA ES Sub-bacia Litoral ES Sub-bacia Litoral RJ Sub-bacia Litoral RJ SP Sub-bacia Litoral SP Sub-bacia Litoral SP PR SC Sub-bacia Paraíba do Sul Sub-bacia Paranapanema Sub-bacia São Francisco Alto Sub-bacia Tietê
+Animalia,Amazona pretrei,papagaio-charão,Aves,10/2021,Não,Sim,Mata Atlântica' Pampa,Sub-bacia Guaíba Sub-bacia Ibicuí Sub-bacia Litoral RS Sub-bacia Litoral SP PR SC Sub-bacia Uruguai Alto Sub-bacia Uruguai Médio
+Animalia,Amazona rhodocorytha,chauá,Aves,10/2021,Sim,Sim,Mata Atlântica,Sub-bacia Contas Sub-bacia Doce Sub-bacia Itapecuru-Paraguaçu Sub-bacia Jequitinhonha Sub-bacia Litoral AL PE PB Sub-bacia Litoral BA ES Sub-bacia Litoral ES Sub-bacia Litoral RJ Sub-bacia Litoral SE Sub-bacia Paraíba do Sul
+Animalia,Amazona vinacea,papagaio-de-peito-roxo,Aves,10/2021,Não,Sim,Caatinga' Cerrado' Mata Atlântica' Pampa,Sub-bacia Doce Sub-bacia Grande Sub-bacia Guaíba Sub-bacia Iguaçu Sub-bacia Itapecuru-Paraguaçu Sub-bacia Jequitinhonha Sub-bacia Litoral BA ES Sub-bacia Litoral ES Sub-bacia Litoral RJ SP Sub-bacia Litoral RS Sub-bacia Litoral SP PR SC Sub-bacia Paraíba do Sul Sub-bacia Paranaíba Sub-bacia Paranapanema Sub-bacia Paraná RH1 Sub-bacia São Francisco Alto Sub-bacia Tietê Sub-bacia Uruguai Alto Sub-bacia Uruguai Médio
+Animalia,Anodorhynchus glaucus,arara-azul-pequena,Aves,06/2019,Não,Não,Mata Atlântica' Pampa,Sub-bacia Guaíba Sub-bacia Litoral SP PR SC
+Animalia,Amazona rhodocorytha,anumará,Aves,06/2019,Sim,Sim,Caatinga' Cerrado' Mata Atlântica,Sub-bacia Doce Sub-bacia Litoral AL PE PB Sub-bacia Litoral ES
+Animalia,Amazona vinacea,Peixe-anual,Peixes Continentais,10/2011,Sim,Não,Caatinga,Sub-bacia Litoral CE PI
+Animalia,Apostolepis arenaria,Cobra-rainha-do-são-francisco,Répteis,11/2019,Sim,Sim,Caatinga,Sub-bacia São Francisco Médio
+Animalia,Apostolepis gaboi,cobra-rainha-das-dunas,Répteis,04/2012,Sim,Não,Não Consta,Não Consta
+Animalia,Apostolepis quirogai,Não Consta,Répteis,11/2019,Não,Sim,Mata Atlântica,Sub-bacia Uruguai Médio
+Animalia,Apostolepis striata,cobra-rainha-estriada,Répteis,04/2012,Sim,Não,Não Consta,Não Consta
+Animalia,Actinote quadra,Borboleta-palha,Invertebrados Terrestres,11/2010,Sim,Não,Mata Atlântica,Sub-bacia Grande Sub-bacia Litoral ES Sub-bacia Litoral RJ Sub-bacia São Francisco Alto
+Animalia,Actinote zikani,Borboleta,Invertebrados Terrestres,09/2016,Sim,Sim,Mata Atlântica,Sub-bacia Litoral SP
+Animalia,Aguarunichthys tocantinsensis,Não Consta,Peixes Continentais,09/2013,Sim,Não,Amazônia,Bacia do rio Tocantins Sub-bacia Tocantins Baixo
+Animalia,Anthus nattereri,caminheiro-grande,Aves,10/2021,Não,Sim,Cerrado' Mata Atlântica' Pampa,Sub-bacia Grande Sub-bacia Guaíba Sub-bacia Ibicuí Sub-bacia Iguaçu Sub-bacia Litoral RJ SP Sub-bacia Litoral RS Sub-bacia Litoral SP PR SC Sub-bacia Paranaíba Sub-bacia Paranapanema Sub-bacia São Francisco Alto Sub-bacia Uruguai Alto
+Animalia,Alouatta belzebul,Bugio' Guariba' Guariba-de-mãos-ruivas' Guariba-de-mãos-vermelhas,Mamíferos,09/2019,Sim,Sim,Amazônia' Cerrado' Mata Atlântica,Sub-bacia Araguaia Sub-bacia Foz Amazonas Sub-bacia Gurupi Sub-bacia Itapecuru Sub-bacia Litoral AL PE PB Sub-bacia Litoral CE PB Sub-bacia Mearim Sub-bacia Paraíba Sub-bacia Tocantins Alto Sub-bacia Tocantins Baixo Sub-bacia Xingu
+Animalia,Alouatta discolor,Guariba-de-mãos-ruivas' guariba-de-mãos-vermelhas,Mamíferos,09/2019,Sim,Sim,Amazônia,Sub-bacia Paru Sub-bacia Tapajós Sub-bacia Xingu
+Animalia,Alouatta ululata,Capelão' Guariba' Guariba-da-Caatinga,Mamíferos,09/2019,Sim,Sim,Caatinga' Cerrado,Sub-bacia Itapecuru Sub-bacia Jaguaribe Sub-bacia Litoral CE PI Sub-bacia Parnaíba Alto Sub-bacia Parnaíba Baixo Sub-bacia Parnaíba Médio
+Animalia,Aceratobasis cornicauda,Libélula,Invertebrados de Água Doce,05/2014,Sim,Não,Mata Atlântica,Sub-bacia Litoral BA ES Sub-bacia Litoral ES
+Animalia,Aceratobasis mourei,Libélula,Invertebrados de Água Doce,05/2014,Sim,Não,Mata Atlântica,Sub-bacia Litoral BA ES
+Animalia,Adebrotus lugoi,Efemérida,Invertebrados de Água Doce,11/2019,Sim,Sim,Mata Atlântica,Sub-bacia Doce Sub-bacia Litoral AL PE PB Sub-bacia Litoral BA ES
+Animalia,Arawacus aethesa,Borboleta' Borboleta formigueira,Invertebrados Terrestres,08/2021,Sim,Sim,Mata Atlântica,Sub-bacia Doce Sub-bacia Jequitinhonha Sub-bacia Litoral BA ES
+Animalia,Ananteris infuscata,Escorpião,Invertebrados Terrestres,03/2014,Sim,Não,Cerrado,Sub-bacia Jequitinhonha
+Animalia,Ameiva parecis,Calango' Calanguinho,Répteis,04/2021,Sim,Sim,Amazônia' Cerrado,Sub-bacia Madeira Sub-bacia Tapajós
+Animalia,Ameivula nativo,lagartinho-de-Linhares' lagartinho-nativo,Répteis,10/2013,Sim,Não,Não Consta,Não Consta
+Animalia,Amphisbaena arda,cobra-de-duas-cabeças,Répteis,08/2014,Sim,Não,Não Consta,Não Consta
+Animalia,Amphisbaena frontalis,cobra-de-duas-cabeças,Répteis,08/2014,Sim,Não,Não Consta,Não Consta
+Animalia,Amphisbaena nigricauda,cobra-de-duas-cabeças,Répteis,08/2014,Sim,Não,Não Consta,Não Consta
+Animalia,Amphisbaena supernumeraria,Cobra-cega' Cobra-de-duas-cabeças,Répteis,04/2021,Sim,Sim,Caatinga' Mata Atlântica,Sub-bacia Litoral AL PE PB Sub-bacia São Francisco Baixo Sub-bacia São Francisco Submédio
+Animalia,Amphisbaena uroxena,Cobra-cega' Cobra-de-duas-cabeças,Répteis,04/2021,Sim,Sim,Caatinga,Sub-bacia Itapecuru-Paraguaçu
+Animalia,Ancistrus cryptophthalmus,Cascudinho-de-caverna,Peixes Continentais,03/2021,Sim,Sim,Cerrado,Sub-bacia Tocantins Alto
+Animalia,Ancistrus formoso,Cascudo-cego,Peixes Continentais,10/2011,Sim,Não,Cerrado,Sub-bacia Paraguai 01
+Animalia,Apareiodon davisi,Peixe-rei,Peixes Continentais,11/2013,Sim,Não,Caatinga,Sub-bacia Jaguaribe Sub-bacia Litoral CE PB Sub-bacia Paraíba Sub-bacia São Francisco Baixo
+Animalia,Arhysosage cactorum,Abelha' Abelha do cacto,Invertebrados Terrestres,07/2021,Sim,Sim,Pampa,Sub-bacia Guaíba Sub-bacia Ibicuí Sub-bacia Litoral RS Sub-bacia Negro RS
+Animalia,Altitatiayus campoi,besouro-tesoura,Invertebrados Terrestres,10/2014,Sim,Não,Mata Atlântica,Sub-bacia Paraíba do Sul
+Animalia,Altitatiayus dulceae,besouro-tesoura,Invertebrados Terrestres,10/2014,Sim,Não,Mata Atlântica,Sub-bacia Grande
+Animalia,Altitatiayus godinhorum,besouro-tesoura,Invertebrados Terrestres,10/2014,Sim,Não,Mata Atlântica,Sub-bacia Paraíba do Sul
+Animalia,Altitatiayus koikei,besouro-tesoura,Invertebrados Terrestres,10/2014,Sim,Não,Mata Atlântica,Sub-bacia Paraíba do Sul
+Animalia,Altitatiayus rotundatus,besouro-tesoura,Invertebrados Terrestres,10/2014,Sim,Não,Mata Atlântica,Sub-bacia Paraíba do Sul
+Animalia,Altitatiayus ruficollis,besouro-tesoura,Invertebrados Terrestres,10/2014,Sim,Não,Mata Atlântica,Sub-bacia Paraíba do Sul
+Animalia,Altitatiayus trifurcatus,besouro-tesoura,Invertebrados Terrestres,10/2014,Sim,Não,Mata Atlântica,Sub-bacia Paraíba do Sul
+Animalia,Amydetes bellorum,Não Consta,Invertebrados Terrestres,07/2022,Sim,Sim,Mata Atlântica' Sistema Costeiro-Marinho,Sub-bacia Litoral RJ
+Animalia,Achirus mucuri,solha' tapa,Peixes Marinhos (ósseos),05/2014,Sim,Não,Mata Atlântica,Não Consta

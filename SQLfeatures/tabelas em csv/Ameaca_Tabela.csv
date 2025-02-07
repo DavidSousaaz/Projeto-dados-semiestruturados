@@ -1,0 +1,636 @@
+Genero,Especie,Ameaca
+Adelpha,Adelpha atlantica,1 - Desenvolvimento residencial e comercial
+Adelpha,Adelpha atlantica,1.1 - Expansão urbana 9 - Poluição
+Adelpha,Adelpha atlantica,9.2 - Industrial
+Adelpha,Adelpha atlantica,9.2.4 - Tipo desconhecido
+Alopias,Alopias superciliosus,5 - Uso de recursos biológicos
+Alopias,Alopias superciliosus,5.4 - Pesca e uso de recursos aquáticos
+Alopias,Alopias superciliosus,5.4.6 - Captura indireta - larga escala
+Alopias,Alopias superciliosus,5.4.6.6 - Arrasto 5 - Uso de recursos biológicos
+Alopias,Alopias superciliosus,5.4 - Pesca e uso de recursos aquáticos
+Alopias,Alopias superciliosus,5.4.6 - Captura indireta - larga escala
+Alopias,Alopias superciliosus,5.4.6.7 - Emalhe 5 - Uso de recursos biológicos
+Alopias,Alopias superciliosus,5.4 - Pesca e uso de recursos aquáticos
+Alopias,Alopias superciliosus,5.4.6 - Captura indireta - larga escala
+Alopias,Alopias superciliosus,5.4.6.8 - Espinhel
+Alopias,Alopias vulpinus,5 - Uso de recursos biológicos
+Alopias,Alopias vulpinus,5.4 - Pesca e uso de recursos aquáticos
+Alopias,Alopias vulpinus,5.4.2 - Captura intencional - larga escala
+Alopias,Alopias vulpinus,5.4.2.6 - Arrasto 5 - Uso de recursos biológicos
+Alopias,Alopias vulpinus,5.4 - Pesca e uso de recursos aquáticos
+Alopias,Alopias vulpinus,5.4.2 - Captura intencional - larga escala
+Alopias,Alopias vulpinus,5.4.2.7 - Emalhe 5 - Uso de recursos biológicos
+Alopias,Alopias vulpinus,5.4 - Pesca e uso de recursos aquáticos
+Alopias,Alopias vulpinus,5.4.2 - Captura intencional - larga escala
+Alopias,Alopias vulpinus,5.4.2.8 - Espinhel
+Aburria,Aburria cujubi,1 - Desenvolvimento residencial e comercial
+Aburria,Aburria cujubi,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura
+Aburria,Aburria cujubi,2.2 - Silvicultura
+Aburria,Aburria cujubi,2.2.3 - Plantações em escala desconhecida 2 - Agropecuária e Aquacultura
+Aburria,Aburria cujubi,2.3 - Pecuária
+Aburria,Aburria cujubi,2.3.4 - Pecuária em escala desconhecida 4 - Transportes e serviços de transmissão
+Aburria,Aburria cujubi,4.1 - Estradas e ferrovias 4 - Transportes e serviços de transmissão
+Aburria,Aburria cujubi,4.7 - Linhas de força/transmissão 5 - Uso de recursos biológicos
+Aburria,Aburria cujubi,5.1 - Caça e captura de animais terrestres ou marinhos
+Aburria,Aburria cujubi,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Aburria,Aburria cujubi,5.1.1.1 - Uso de subsistência/escambo local 5 - Uso de recursos biológicos
+Aburria,Aburria cujubi,5.3 - Extração florestal
+Aburria,Aburria cujubi,5.3.5 - Motivação desconhecida
+Aratinga,Aratinga solstitialis,2 - Agropecuária e Aquacultura
+Aratinga,Aratinga solstitialis,2.1 - Culturas anuais e perenes não-madeireiras
+Aratinga,Aratinga solstitialis,2.1.4 - Agricultura de escala desconhecida 5 - Uso de recursos biológicos
+Aratinga,Aratinga solstitialis,5.1 - Caça e captura de animais terrestres ou marinhos
+Aratinga,Aratinga solstitialis,5.1.1 - Caça/captura intencional (a espécie é o alvo) 7 - Modificações nos sistemas naturais
+Aratinga,Aratinga solstitialis,7.1 - Incêndios e supressão de incêndios
+Alectrurus,Alectrurus tricolor,1 - Desenvolvimento residencial e comercial
+Alectrurus,Alectrurus tricolor,1.3 - Áreas de turismo e recreação 2 - Agropecuária e Aquacultura
+Alectrurus,Alectrurus tricolor,2.2 - Silvicultura
+Alectrurus,Alectrurus tricolor,2.2.3 - Plantações em escala desconhecida 2 - Agropecuária e Aquacultura
+Alectrurus,Alectrurus tricolor,2.3 - Pecuária
+Alectrurus,Alectrurus tricolor,2.3.4 - Pecuária em escala desconhecida 7 - Modificações nos sistemas naturais
+Alectrurus,Alectrurus tricolor,7.1 - Incêndios e supressão de incêndios
+Alectrurus,Alectrurus tricolor,7.1.1 - Aumento da frequência/intensidade de incêndios 9 - Poluição
+Alectrurus,Alectrurus tricolor,9.3 - Agropecuária e florestal
+Alectrurus,Alectrurus tricolor,9.3.3 - Herbicidas e pesticidas
+Antilophia,Antilophia bokermanni,1 - Desenvolvimento residencial e comercial
+Antilophia,Antilophia bokermanni,1.1 - Expansão urbana 1 - Desenvolvimento residencial e comercial
+Antilophia,Antilophia bokermanni,1.3 - Áreas de turismo e recreação 2 - Agropecuária e Aquacultura
+Antilophia,Antilophia bokermanni,2.1 - Culturas anuais e perenes não-madeireiras
+Antilophia,Antilophia bokermanni,2.1.2 - Agricultura em pequenas propriedades 7 - Modificações nos sistemas naturais
+Antilophia,Antilophia bokermanni,7.2 - Represas e uso de água
+Antilophia,Antilophia bokermanni,7.2.1 - Captação de água de superfície - uso doméstico 7 - Modificações nos sistemas naturais
+Antilophia,Antilophia bokermanni,7.2 - Represas e uso de água
+Antilophia,Antilophia bokermanni,7.2.2 - Captação de água de superfície - uso comercial 7 - Modificações nos sistemas naturais
+Antilophia,Antilophia bokermanni,7.2 - Represas e uso de água
+Antilophia,Antilophia bokermanni,7.2.3 - Captação de água de superfície - uso na agricultura
+Anodorhynchus,Anodorhynchus leari,5 - Uso de recursos biológicos
+Anodorhynchus,Anodorhynchus leari,5.1 - Caça e captura de animais terrestres ou marinhos
+Anodorhynchus,Anodorhynchus leari,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Anodorhynchus,Anodorhynchus leari,5.1.1.2 - Comercial - Nacional/Local 5 - Uso de recursos biológicos
+Anodorhynchus,Anodorhynchus leari,5.1 - Caça e captura de animais terrestres ou marinhos
+Anodorhynchus,Anodorhynchus leari,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Anodorhynchus,Anodorhynchus leari,5.1.1.3 - Comercial - Internacional 5 - Uso de recursos biológicos
+Anodorhynchus,Anodorhynchus leari,5.1 - Caça e captura de animais terrestres ou marinhos
+Anodorhynchus,Anodorhynchus leari,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Anodorhynchus,Anodorhynchus leari,5.1.1.6 - Retaliação/controle 5 - Uso de recursos biológicos
+Anodorhynchus,Anodorhynchus leari,5.3 - Extração florestal
+Anodorhynchus,Anodorhynchus leari,5.3.3 - Efeitos indiretos - subsistência/pequena escala 5 - Uso de recursos biológicos
+Anodorhynchus,Anodorhynchus leari,5.3 - Extração florestal
+Anodorhynchus,Anodorhynchus leari,5.3.4 - Efeitos indiretos - larga escala
+Arrhopalites,Acherontides eleonorae,6 - Distúrbios humanos 6 - Distúrbios humanos
+Arrhopalites,Acherontides eleonorae,6.1 - Atividades recreacionais/turísticas
+Aegla,Aegla cavernicola,1 - Desenvolvimento residencial e comercial
+Aegla,Aegla cavernicola,1.1 - Expansão urbana 6 - Distúrbios humanos
+Aegla,Aegla cavernicola,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Aegla,Aegla cavernicola,7.3 - Outras modificações nos ecossistemas 9 - Poluição
+Aegla,Aegla cavernicola,9.1 - Doméstica e urbana - escoamento de água
+Aegla,Aegla cavernicola,9.1.1 - Esgoto 9 - Poluição
+Aegla,Aegla cavernicola,9.3 - Agropecuária e florestal
+Aegla,Aegla cavernicola,9.3.2 - Erosão do solo/sedimentação 9 - Poluição
+Aegla,Aegla cavernicola,9.4 - Lixo e resíduos sólidos
+Aegla,Aegla cavernicola,9.4.1 - Urbanos
+Aegla,Aegla leptochela,3 - Produção energética e mineração
+Aegla,Aegla leptochela,3.2 - Mineração
+Aegla,Aegla leptochela,3.2.3 - Extração de minérios - subsolo 6 - Distúrbios humanos
+Aegla,Aegla leptochela,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Aegla,Aegla leptochela,7.3 - Outras modificações nos ecossistemas 8 - Espécies invasoras problemáticas e doenças
+Aegla,Aegla leptochela,8.1 - Espécies exóticas
+Aegla,Aegla leptochela,8.1.1 - Espécie conhecida
+Aegla,Aegla leptochela,8.1.1.1 - Competidores 8 - Espécies invasoras problemáticas e doenças
+Aegla,Aegla leptochela,8.1 - Espécies exóticas
+Aegla,Aegla leptochela,8.1.1 - Espécie conhecida
+Aegla,Aegla leptochela,8.1.1.2 - Predadores 9 - Poluição
+Aegla,Aegla leptochela,9.2 - Industrial
+Aegla,Aegla leptochela,9.2.2 - Infiltraçao oriunda de mineração 9 - Poluição
+Aegla,Aegla leptochela,9.2 - Industrial
+Aegla,Aegla leptochela,9.2.3 - Contaminação por metais pesados
+Aegla,Aegla microphthalma,3 - Produção energética e mineração
+Aegla,Aegla microphthalma,3.2 - Mineração
+Aegla,Aegla microphthalma,3.2.3 - Extração de minérios - subsolo 6 - Distúrbios humanos
+Aegla,Aegla microphthalma,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Aegla,Aegla microphthalma,7.3 - Outras modificações nos ecossistemas 8 - Espécies invasoras problemáticas e doenças
+Aegla,Aegla microphthalma,8.2 - Espécies domésticas
+Aegla,Aegla microphthalma,8.2.1 - Competidores 8 - Espécies invasoras problemáticas e doenças
+Aegla,Aegla microphthalma,8.2 - Espécies domésticas
+Aegla,Aegla microphthalma,8.2.2 - Predadores 9 - Poluição
+Aegla,Aegla microphthalma,9.2 - Industrial
+Aegla,Aegla microphthalma,9.2.2 - Infiltraçao oriunda de mineração 9 - Poluição
+Aegla,Aegla microphthalma,9.2 - Industrial
+Aegla,Aegla microphthalma,9.2.3 - Contaminação por metais pesados
+Amazoniscus,Amazoniscus leistikowi,11 - Mudanças e extremos climáticos
+Amazoniscus,Amazoniscus leistikowi,11.1 - Mudança/alteração de habitat 2 - Agropecuária e Aquacultura
+Amazoniscus,Amazoniscus leistikowi,2.3 - Pecuária
+Amazoniscus,Amazoniscus leistikowi,2.3.4 - Pecuária em escala desconhecida 3 - Produção energética e mineração
+Amazoniscus,Amazoniscus leistikowi,3.3 - Energia renovável
+Amazoniscus,Amazoniscus leistikowi,3.3.1 - Hidrelétricas 5 - Uso de recursos biológicos
+Amazoniscus,Amazoniscus leistikowi,5.3 - Extração florestal
+Amazoniscus,Amazoniscus leistikowi,5.3.5 - Motivação desconhecida 7 - Modificações nos sistemas naturais
+Amazoniscus,Amazoniscus leistikowi,7.2 - Represas e uso de água
+Amazoniscus,Amazoniscus leistikowi,7.2.10 - Represas (grandes) 7 - Modificações nos sistemas naturais
+Amazoniscus,Amazoniscus leistikowi,7.3 - Outras modificações nos ecossistemas
+Archolaemus,Archolaemus ferreirai,3 - Produção energética e mineração
+Archolaemus,Archolaemus ferreirai,3.2 - Mineração
+Archolaemus,Archolaemus ferreirai,3.2.4 - Extração de minérios - garimpo 3 - Produção energética e mineração
+Archolaemus,Archolaemus ferreirai,3.3 - Energia renovável
+Archolaemus,Archolaemus ferreirai,3.3.1 - Hidrelétricas
+Archolaemus,Archolaemus santosi,3 - Produção energética e mineração
+Archolaemus,Archolaemus santosi,3.3 - Energia renovável
+Archolaemus,Archolaemus santosi,3.3.1 - Hidrelétricas
+Arrhopalites,Arrhopalites alambariensis,1 - Desenvolvimento residencial e comercial
+Arrhopalites,Arrhopalites alambariensis,1.1 - Expansão urbana 1 - Desenvolvimento residencial e comercial
+Arrhopalites,Arrhopalites alambariensis,1.3 - Áreas de turismo e recreação 6 - Distúrbios humanos
+Arrhopalites,Arrhopalites alambariensis,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Arrhopalites,Arrhopalites alambariensis,7.3 - Outras modificações nos ecossistemas
+Arrhopalites,Arrhopalites amorimi,6 - Distúrbios humanos
+Arrhopalites,Arrhopalites amorimi,6.1 - Atividades recreacionais/turísticas
+Arrhopalites,Arrhopalites botuveraensis,1 - Desenvolvimento residencial e comercial
+Arrhopalites,Arrhopalites botuveraensis,1.1 - Expansão urbana 1 - Desenvolvimento residencial e comercial
+Arrhopalites,Arrhopalites botuveraensis,1.3 - Áreas de turismo e recreação 6 - Distúrbios humanos
+Arrhopalites,Arrhopalites botuveraensis,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Arrhopalites,Arrhopalites botuveraensis,7.2 - Represas e uso de água
+Arrhopalites,Arrhopalites botuveraensis,7.2.11 - Represas (tamanho desconhecido) 7 - Modificações nos sistemas naturais
+Arrhopalites,Arrhopalites botuveraensis,7.3 - Outras modificações nos ecossistemas
+Arrhopalites,Arrhopalites gnaspinii,6 - Distúrbios humanos
+Arrhopalites,Arrhopalites gnaspinii,6.1 - Atividades recreacionais/turísticas
+Arrhopalites,Arrhopalites heteroculatus,6 - Distúrbios humanos
+Arrhopalites,Arrhopalites heteroculatus,6.1 - Atividades recreacionais/turísticas
+Arrhopalites,Arrhopalites lawrencei,11 - Mudanças e extremos climáticos
+Arrhopalites,Arrhopalites lawrencei,11.1 - Mudança/alteração de habitat 1 - Desenvolvimento residencial e comercial
+Arrhopalites,Arrhopalites lawrencei,1.3 - Áreas de turismo e recreação 6 - Distúrbios humanos
+Arrhopalites,Arrhopalites lawrencei,6.1 - Atividades recreacionais/turísticas
+Arrhopalites,Arrhopalites paranaensis,11 - Mudanças e extremos climáticos
+Arrhopalites,Arrhopalites paranaensis,11.1 - Mudança/alteração de habitat 1 - Desenvolvimento residencial e comercial
+Arrhopalites,Arrhopalites paranaensis,1.1 - Expansão urbana 1 - Desenvolvimento residencial e comercial
+Arrhopalites,Arrhopalites paranaensis,1.3 - Áreas de turismo e recreação 6 - Distúrbios humanos
+Arrhopalites,Arrhopalites paranaensis,6.1 - Atividades recreacionais/turísticas
+Anabazenops,Anabazenops dorsalis,2 - Agropecuária e Aquacultura
+Anabazenops,Anabazenops dorsalis,2.1 - Culturas anuais e perenes não-madeireiras
+Anabazenops,Anabazenops dorsalis,2.1.4 - Agricultura de escala desconhecida 2 - Agropecuária e Aquacultura
+Anabazenops,Anabazenops dorsalis,2.2 - Silvicultura
+Anabazenops,Anabazenops dorsalis,2.2.3 - Plantações em escala desconhecida 2 - Agropecuária e Aquacultura
+Anabazenops,Anabazenops dorsalis,2.3 - Pecuária
+Anabazenops,Anabazenops dorsalis,2.3.4 - Pecuária em escala desconhecida 5 - Uso de recursos biológicos
+Anabazenops,Anabazenops dorsalis,5.3 - Extração florestal
+Anabazenops,Anabazenops dorsalis,5.3.5 - Motivação desconhecida 7 - Modificações nos sistemas naturais
+Anabazenops,Anabazenops dorsalis,7.1 - Incêndios e supressão de incêndios
+Anabazenops,Anabazenops dorsalis,7.1.1 - Aumento da frequência/intensidade de incêndios
+Arremonops,Arremonops conirostris,2 - Agropecuária e Aquacultura
+Arremonops,Arremonops conirostris,2.1 - Culturas anuais e perenes não-madeireiras
+Arremonops,Arremonops conirostris,2.1.4 - Agricultura de escala desconhecida 3 - Produção energética e mineração
+Arremonops,Arremonops conirostris,3.3 - Energia renovável
+Arremonops,Arremonops conirostris,3.3.1 - Hidrelétricas 7 - Modificações nos sistemas naturais
+Arremonops,Arremonops conirostris,7.1 - Incêndios e supressão de incêndios
+Arremonops,Arremonops conirostris,7.1.1 - Aumento da frequência/intensidade de incêndios
+Aegla,Aegla charon,9 - Poluição
+Aegla,Aegla charon,9.2 - Industrial
+Aegla,Aegla charon,9.2.2 - Infiltraçao oriunda de mineração 9 - Poluição
+Aegla,Aegla charon,9.2 - Industrial
+Aegla,Aegla charon,9.2.3 - Contaminação por metais pesados
+Adelophryne,Adelophryne maranguapensis,1 - Desenvolvimento residencial e comercial
+Adelophryne,Adelophryne maranguapensis,1.1 - Expansão urbana 1 - Desenvolvimento residencial e comercial
+Adelophryne,Adelophryne maranguapensis,1.3 - Áreas de turismo e recreação 2 - Agropecuária e Aquacultura
+Adelophryne,Adelophryne maranguapensis,2.1 - Culturas anuais e perenes não-madeireiras
+Adelophryne,Adelophryne maranguapensis,2.1.2 - Agricultura em pequenas propriedades 5 - Uso de recursos biológicos
+Adelophryne,Adelophryne maranguapensis,5.2 - Coleta de plantas terrestres
+Adelophryne,Adelophryne maranguapensis,5.2.2 - Efeitos indiretos (a espécie não é o alvo)
+Archisotoma,Archisotoma arariboia,6 - Distúrbios humanos
+Archisotoma,Archisotoma arariboia,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Archisotoma,Archisotoma arariboia,7.3 - Outras modificações nos ecossistemas 9 - Poluição
+Archisotoma,Archisotoma arariboia,9.4 - Lixo e resíduos sólidos
+Archisotoma,Archisotoma arariboia,9.4.1 - Urbanos 9 - Poluição
+Archisotoma,Archisotoma arariboia,9.4 - Lixo e resíduos sólidos
+Archisotoma,Archisotoma arariboia,9.4.2 - Industriais
+Arrhopalites,Arrhopalites glabrofasciatus,3 - Produção energética e mineração
+Arrhopalites,Arrhopalites glabrofasciatus,3.2 - Mineração
+Arrhopalites,Arrhopalites glabrofasciatus,3.2.3 - Extração de minérios - subsolo
+Archisotoma,Archisotoma catiae,1 - Desenvolvimento residencial e comercial
+Archisotoma,Archisotoma catiae,1.1 - Expansão urbana 1 - Desenvolvimento residencial e comercial
+Archisotoma,Archisotoma catiae,1.3 - Áreas de turismo e recreação 7 - Modificações nos sistemas naturais
+Archisotoma,Archisotoma catiae,7.1 - Incêndios e supressão de incêndios
+Archisotoma,Archisotoma catiae,7.1.1 - Aumento da frequência/intensidade de incêndios 9 - Poluição
+Archisotoma,Archisotoma catiae,9.1 - Doméstica e urbana - escoamento de água
+Archisotoma,Archisotoma catiae,9.1.3 - Tipo desconhecido
+Arrhopalites,Aethiopella littoralis,1 - Desenvolvimento residencial e comercial
+Arrhopalites,Aethiopella littoralis,1.1 - Expansão urbana 9 - Poluição
+Arrhopalites,Aethiopella littoralis,9.1 - Doméstica e urbana - escoamento de água
+Arrhopalites,Aethiopella littoralis,9.1.3 - Tipo desconhecido
+Arrhopalites,Agraphorura mariapetrae,1 - Desenvolvimento residencial e comercial
+Arrhopalites,Agraphorura mariapetrae,1.1 - Expansão urbana 7 - Modificações nos sistemas naturais
+Arrhopalites,Agraphorura mariapetrae,7.1 - Incêndios e supressão de incêndios
+Arrhopalites,Agraphorura mariapetrae,7.1.1 - Aumento da frequência/intensidade de incêndios
+Arlea,Arlea arenicola,1 - Desenvolvimento residencial e comercial
+Arlea,Arlea arenicola,1.1 - Expansão urbana 7 - Modificações nos sistemas naturais
+Arlea,Arlea arenicola,7.1 - Incêndios e supressão de incêndios
+Arlea,Arlea arenicola,7.1.1 - Aumento da frequência/intensidade de incêndios
+Arrhopalites,Arlesia intermedia,1 - Desenvolvimento residencial e comercial
+Arrhopalites,Arlesia intermedia,1.1 - Expansão urbana 7 - Modificações nos sistemas naturais
+Arrhopalites,Arlesia intermedia,7.1 - Incêndios e supressão de incêndios
+Arrhopalites,Arlesia intermedia,7.1.1 - Aumento da frequência/intensidade de incêndios
+Arlea,Arlea psammophila,1 - Desenvolvimento residencial e comercial
+Arlea,Arlea psammophila,1.1 - Expansão urbana 7 - Modificações nos sistemas naturais
+Arlea,Arlea psammophila,7.1 - Incêndios e supressão de incêndios
+Arlea,Arlea psammophila,7.1.1 - Aumento da frequência/intensidade de incêndios
+Ariadna,Ariadna aurea,3 - Produção energética e mineração
+Ariadna,Ariadna aurea,3.2 - Mineração
+Ariadna,Ariadna aurea,3.2.3 - Extração de minérios - subsolo
+Anomaloglossus,Anomaloglossus apiau,1 - Desenvolvimento residencial e comercial
+Anomaloglossus,Anomaloglossus apiau,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura
+Anomaloglossus,Anomaloglossus apiau,2.1 - Culturas anuais e perenes não-madeireiras
+Anomaloglossus,Anomaloglossus apiau,2.1.4 - Agricultura de escala desconhecida 2 - Agropecuária e Aquacultura
+Anomaloglossus,Anomaloglossus apiau,2.3 - Pecuária
+Anomaloglossus,Anomaloglossus apiau,2.3.4 - Pecuária em escala desconhecida 5 - Uso de recursos biológicos
+Anomaloglossus,Anomaloglossus apiau,5.3 - Extração florestal 7 - Modificações nos sistemas naturais
+Anomaloglossus,Anomaloglossus apiau,7.1 - Incêndios e supressão de incêndios
+Anomaloglossus,Anomaloglossus apiau,7.1.1 - Aumento da frequência/intensidade de incêndios
+Anomaloglossus,Anomaloglossus tepequem,2 - Agropecuária e Aquacultura
+Anomaloglossus,Anomaloglossus tepequem,2.1 - Culturas anuais e perenes não-madeireiras
+Anomaloglossus,Anomaloglossus tepequem,2.1.4 - Agricultura de escala desconhecida 3 - Produção energética e mineração
+Anomaloglossus,Anomaloglossus tepequem,3.2 - Mineração
+Anomaloglossus,Anomaloglossus tepequem,3.2.4 - Extração de minérios - garimpo 6 - Distúrbios humanos
+Anomaloglossus,Anomaloglossus tepequem,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Anomaloglossus,Anomaloglossus tepequem,7.1 - Incêndios e supressão de incêndios
+Anomaloglossus,Anomaloglossus tepequem,7.1.3 - Tendência desconhecida
+Ancistrus,Ancistrus minutus,1 - Desenvolvimento residencial e comercial
+Ancistrus,Ancistrus minutus,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura
+Ancistrus,Ancistrus minutus,2.1 - Culturas anuais e perenes não-madeireiras
+Ancistrus,Ancistrus minutus,2.1.4 - Agricultura de escala desconhecida 2 - Agropecuária e Aquacultura
+Ancistrus,Ancistrus minutus,2.3 - Pecuária
+Ancistrus,Ancistrus minutus,2.3.4 - Pecuária em escala desconhecida 3 - Produção energética e mineração
+Ancistrus,Ancistrus minutus,3.3 - Energia renovável
+Ancistrus,Ancistrus minutus,3.3.1 - Hidrelétricas
+Aegla,Aegla renana,9 - Poluição
+Aegla,Aegla renana,9.1 - Doméstica e urbana - escoamento de água
+Aegla,Aegla brevipalma,2 - Agropecuária e Aquacultura
+Aegla,Aegla brevipalma,2.2 - Silvicultura
+Aegla,Aegla brevipalma,2.2.1 - Plantações em pequenas propriedades 2 - Agropecuária e Aquacultura
+Aegla,Aegla brevipalma,2.3 - Pecuária
+Aegla,Aegla brevipalma,2.3.2 - Pecuária em pequenas propriedades 9 - Poluição
+Aegla,Aegla brevipalma,9.3 - Agropecuária e florestal
+Aegla,Aegla brevipalma,9.3.1 - Acúmulo de nutrientes 9 - Poluição
+Aegla,Aegla brevipalma,9.3 - Agropecuária e florestal
+Aegla,Aegla brevipalma,9.3.2 - Erosão do solo/sedimentação
+Aegla,Aegla camargoi,2 - Agropecuária e Aquacultura
+Aegla,Aegla camargoi,2.2 - Silvicultura
+Aegla,Aegla camargoi,2.2.3 - Plantações em escala desconhecida 2 - Agropecuária e Aquacultura
+Aegla,Aegla camargoi,2.3 - Pecuária
+Aegla,Aegla camargoi,2.3.4 - Pecuária em escala desconhecida
+Aegla,Aegla franca,1 - Desenvolvimento residencial e comercial
+Aegla,Aegla franca,1.2 - Áreas comerciais e industriais 2 - Agropecuária e Aquacultura
+Aegla,Aegla franca,2.3 - Pecuária 4 - Transportes e serviços de transmissão
+Aegla,Aegla franca,4.1 - Estradas e ferrovias
+Aegla,Aegla inconspicua,1 - Desenvolvimento residencial e comercial
+Aegla,Aegla inconspicua,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura
+Aegla,Aegla inconspicua,2.1 - Culturas anuais e perenes não-madeireiras
+Aegla,Aegla inconspicua,2.1.4 - Agricultura de escala desconhecida
+Aegla,Aegla inermis,2 - Agropecuária e Aquacultura
+Aegla,Aegla inermis,2.1 - Culturas anuais e perenes não-madeireiras
+Aegla,Aegla inermis,2.1.4 - Agricultura de escala desconhecida 4 - Transportes e serviços de transmissão
+Aegla,Aegla inermis,4.1 - Estradas e ferrovias 9 - Poluição
+Aegla,Aegla inermis,9.3 - Agropecuária e florestal
+Aegla,Aegla inermis,9.3.3 - Herbicidas e pesticidas
+Aegla,Aegla itacolomiensis,1 - Desenvolvimento residencial e comercial
+Aegla,Aegla itacolomiensis,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura
+Aegla,Aegla itacolomiensis,2.1 - Culturas anuais e perenes não-madeireiras
+Aegla,Aegla itacolomiensis,2.1.4 - Agricultura de escala desconhecida
+Aegla,Aegla leachi,2 - Agropecuária e Aquacultura
+Aegla,Aegla leachi,2.2 - Silvicultura
+Aegla,Aegla leachi,2.2.2 - Plantações agro-industriais 7 - Modificações nos sistemas naturais
+Aegla,Aegla leachi,7.1 - Incêndios e supressão de incêndios
+Aegla,Aegla leachi,7.1.1 - Aumento da frequência/intensidade de incêndios
+Aegla,Aegla manuinflata,2 - Agropecuária e Aquacultura
+Aegla,Aegla manuinflata,2.3 - Pecuária
+Aegla,Aegla manuinflata,2.3.4 - Pecuária em escala desconhecida
+Aegla,Aegla oblata,2 - Agropecuária e Aquacultura
+Aegla,Aegla oblata,2.1 - Culturas anuais e perenes não-madeireiras
+Aegla,Aegla oblata,2.1.4 - Agricultura de escala desconhecida 9 - Poluição
+Aegla,Aegla oblata,9.3 - Agropecuária e florestal
+Aegla,Aegla oblata,9.3.3 - Herbicidas e pesticidas
+Aegla,Aegla obstipa,2 - Agropecuária e Aquacultura
+Aegla,Aegla obstipa,2.2 - Silvicultura
+Aegla,Aegla obstipa,2.2.3 - Plantações em escala desconhecida 9 - Poluição
+Aegla,Aegla obstipa,9.3 - Agropecuária e florestal
+Aegla,Aegla obstipa,9.3.2 - Erosão do solo/sedimentação
+Aegla,Aegla perobae,2 - Agropecuária e Aquacultura 7 - Modificações nos sistemas naturais 9 - Poluição
+Aegla,Aegla perobae,9.3 - Agrícola e florestal 9 - Poluição
+Aegla,Aegla perobae,9.4 - Lixo e resíduos sólidos
+Aegla,Aegla violacea,2 - Agropecuária e Aquacultura
+Aegla,Aegla violacea,2.1 - Culturas anuais e perenes não-madeireiras
+Aegla,Aegla violacea,2.1.4 - Agricultura de escala desconhecida 2 - Agropecuária e Aquacultura
+Aegla,Aegla violacea,2.2 - Silvicultura
+Aegla,Aegla violacea,2.2.3 - Plantações em escala desconhecida 2 - Agropecuária e Aquacultura
+Aegla,Aegla violacea,2.3 - Pecuária
+Aegla,Aegla violacea,2.3.4 - Pecuária em escala desconhecida 9 - Poluição
+Aegla,Aegla violacea,9.3 - Agropecuária e florestal
+Aegla,Aegla violacea,9.3.3 - Herbicidas e pesticidas
+Aburria,Aburria jacutinga,1 - Desenvolvimento residencial e comercial
+Aburria,Aburria jacutinga,1.1 - Expansão urbana 3 - Produção energética e mineração
+Aburria,Aburria jacutinga,3.3 - Energia renovável
+Aburria,Aburria jacutinga,3.3.1 - Hidrelétricas 5 - Uso de recursos biológicos
+Aburria,Aburria jacutinga,5.1 - Caça e captura de animais terrestres ou marinhos
+Aburria,Aburria jacutinga,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Aburria,Aburria jacutinga,5.1.1.1 - Uso de subsistência/escambo local 5 - Uso de recursos biológicos
+Aburria,Aburria jacutinga,5.3 - Extração florestal
+Aburria,Aburria jacutinga,5.3.3 - Efeitos indiretos - subsistência/pequena escala
+Acrobatornis,Acrobatornis fonsecai,1 - Desenvolvimento residencial e comercial
+Acrobatornis,Acrobatornis fonsecai,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura
+Acrobatornis,Acrobatornis fonsecai,2.1 - Culturas anuais e perenes não-madeireiras
+Acrobatornis,Acrobatornis fonsecai,2.1.4 - Agricultura de escala desconhecida 2 - Agropecuária e Aquacultura
+Acrobatornis,Acrobatornis fonsecai,2.2 - Silvicultura
+Acrobatornis,Acrobatornis fonsecai,2.2.3 - Plantações em escala desconhecida 2 - Agropecuária e Aquacultura
+Acrobatornis,Acrobatornis fonsecai,2.3 - Pecuária
+Acrobatornis,Acrobatornis fonsecai,2.3.4 - Pecuária em escala desconhecida
+Amadonastur,Amadonastur lacernulatus,1 - Desenvolvimento residencial e comercial
+Amadonastur,Amadonastur lacernulatus,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura
+Amadonastur,Amadonastur lacernulatus,2.1 - Culturas anuais e perenes não-madeireiras
+Amadonastur,Amadonastur lacernulatus,2.1.4 - Agricultura de escala desconhecida 2 - Agropecuária e Aquacultura
+Amadonastur,Amadonastur lacernulatus,2.3 - Pecuária
+Amadonastur,Amadonastur lacernulatus,2.3.4 - Pecuária em escala desconhecida 5 - Uso de recursos biológicos
+Amadonastur,Amadonastur lacernulatus,5.1 - Caça e captura de animais terrestres ou marinhos
+Amadonastur,Amadonastur lacernulatus,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Amadonastur,Amadonastur lacernulatus,5.1.1.6 - Retaliação/controle
+Amazona,Amazona pretrei,2 - Agropecuária e Aquacultura
+Amazona,Amazona pretrei,2.3 - Pecuária
+Amazona,Amazona pretrei,2.3.4 - Pecuária em escala desconhecida 5 - Uso de recursos biológicos
+Amazona,Amazona pretrei,5.1 - Caça e captura de animais terrestres ou marinhos
+Amazona,Amazona pretrei,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Amazona,Amazona pretrei,5.1.1.1 - Uso de subsistência/escambo local 5 - Uso de recursos biológicos
+Amazona,Amazona pretrei,5.1 - Caça e captura de animais terrestres ou marinhos
+Amazona,Amazona pretrei,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Amazona,Amazona pretrei,5.1.1.2 - Comercial - Nacional/Local 5 - Uso de recursos biológicos
+Amazona,Amazona pretrei,5.3 - Extração florestal
+Amazona,Amazona pretrei,5.3.2 - Uso intencional - larga escala 8 - Espécies invasoras problemáticas e doenças
+Amazona,Amazona pretrei,8.5 - Doenças provocadas por vírus ou príons
+Amazona,Amazona pretrei,8.5.2 - Espécie conhecida (Doença)
+Amazona,Amazona rhodocorytha,1 - Desenvolvimento residencial e comercial
+Amazona,Amazona rhodocorytha,1.1 - Expansão urbana 5 - Uso de recursos biológicos
+Amazona,Amazona rhodocorytha,5.1 - Caça e captura de animais terrestres ou marinhos
+Amazona,Amazona rhodocorytha,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Amazona,Amazona rhodocorytha,5.1.1.2 - Comercial - Nacional/Local 5 - Uso de recursos biológicos
+Amazona,Amazona rhodocorytha,5.1 - Caça e captura de animais terrestres ou marinhos
+Amazona,Amazona rhodocorytha,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Amazona,Amazona rhodocorytha,5.1.1.3 - Comercial - Internacional
+Amazona,Amazona vinacea,5 - Uso de recursos biológicos
+Amazona,Amazona vinacea,5.1 - Caça e captura de animais terrestres ou marinhos
+Amazona,Amazona vinacea,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Amazona,Amazona vinacea,5.1.1.1 - Uso de subsistência/escambo local 5 - Uso de recursos biológicos
+Amazona,Amazona vinacea,5.1 - Caça e captura de animais terrestres ou marinhos
+Amazona,Amazona vinacea,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Amazona,Amazona vinacea,5.1.1.2 - Comercial - Nacional/Local 5 - Uso de recursos biológicos
+Amazona,Amazona vinacea,5.1 - Caça e captura de animais terrestres ou marinhos
+Amazona,Amazona vinacea,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Amazona,Amazona vinacea,5.1.1.4 - Esportiva 5 - Uso de recursos biológicos
+Amazona,Amazona vinacea,5.1 - Caça e captura de animais terrestres ou marinhos
+Amazona,Amazona vinacea,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Amazona,Amazona vinacea,5.1.1.6 - Retaliação/controle 5 - Uso de recursos biológicos
+Amazona,Amazona vinacea,5.3 - Extração florestal
+Amazona,Amazona vinacea,5.3.2 - Uso intencional - larga escala 8 - Espécies invasoras problemáticas e doenças
+Amazona,Amazona vinacea,8.3 - Espécies nativas problemáticas
+Amazona,Amazona vinacea,8.3.2 - Espécie não conhecida
+Amazona,Amazona vinacea,8.3.2.1 - Competidores
+Anodorhynchus,Anodorhynchus glaucus,2 - Agropecuária e Aquacultura
+Anodorhynchus,Anodorhynchus glaucus,2.1 - Culturas anuais e perenes não-madeireiras 2 - Agropecuária e Aquacultura
+Anodorhynchus,Anodorhynchus glaucus,2.3 - Pecuária 5 - Uso de recursos biológicos
+Anodorhynchus,Anodorhynchus glaucus,5.1 - Caça e captura de animais terrestres ou marinhos
+Anodorhynchus,Anodorhynchus glaucus,5.1.1 - Caça/captura intencional (a espécie é o alvo) 6 - Distúrbios humanos
+Anodorhynchus,Anodorhynchus glaucus,6.2 - Exercícios militares distúrbio civil guerra 8 - Espécies invasoras problemáticas e doenças
+Anodorhynchus,Anodorhynchus glaucus,8.8 - Doenças de causas desconhecidas
+Anumara,Anumara forbesi,2 - Agropecuária e Aquacultura
+Anumara,Anumara forbesi,2.1 - Culturas anuais e perenes não-madeireiras
+Anumara,Anumara forbesi,2.1.4 - Agricultura de escala desconhecida 5 - Uso de recursos biológicos
+Anumara,Anumara forbesi,5.1 - Caça e captura de animais terrestres ou marinhos
+Anumara,Anumara forbesi,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Anumara,Anumara forbesi,5.1.1.2 - Comercial - Nacional/Local 8 - Espécies invasoras problemáticas e doenças
+Anumara,Anumara forbesi,8.3 - Espécies nativas problemáticas
+Anumara,Anumara forbesi,8.3.1 - Espécie conhecida
+Anumara,Anumara forbesi,8.3.1.4 - Patógenos/parasitas 9 - Poluição
+Anumara,Anumara forbesi,9.3 - Agropecuária e florestal
+Anumara,Anumara forbesi,9.3.3 - Herbicidas e pesticidas
+Apostolepis,Apostolepis arenaria,2 - Agropecuária e Aquacultura
+Apostolepis,Apostolepis arenaria,2.1 - Culturas anuais e perenes não-madeireiras
+Apostolepis,Apostolepis arenaria,2.1.2 - Agricultura em pequenas propriedades 3 - Produção energética e mineração
+Apostolepis,Apostolepis arenaria,3.2 - Mineração
+Apostolepis,Apostolepis arenaria,3.2.1 - Extração de areia 3 - Produção energética e mineração
+Apostolepis,Apostolepis arenaria,3.3 - Energia renovável
+Apostolepis,Apostolepis arenaria,3.3.2 - Parques eólicos 5 - Uso de recursos biológicos
+Apostolepis,Apostolepis arenaria,5.3 - Extração florestal
+Apostolepis,Apostolepis arenaria,5.3.3 - Efeitos indiretos - subsistência/pequena escala
+Apostolepis,Apostolepis gaboi,3 - Produção energética e mineração
+Apostolepis,Apostolepis gaboi,3.3 - Energia renovável
+Apostolepis,Apostolepis gaboi,3.3.1 - Hidrelétricas 3 - Produção energética e mineração
+Apostolepis,Apostolepis gaboi,3.3 - Energia renovável
+Apostolepis,Apostolepis gaboi,3.3.2 - Parques eólicos 7 - Modificações nos sistemas naturais
+Apostolepis,Apostolepis gaboi,7.3 - Outras modificações nos ecossistemas
+Apostolepis,Apostolepis quirogai,2 - Agropecuária e Aquacultura
+Apostolepis,Apostolepis quirogai,2.1 - Culturas anuais e perenes não-madeireiras
+Apostolepis,Apostolepis quirogai,2.1.3 - Agricultura agro-industrial
+Apostolepis,Apostolepis striata,2 - Agropecuária e Aquacultura
+Apostolepis,Apostolepis striata,2.1 - Culturas anuais e perenes não-madeireiras 2 - Agropecuária e Aquacultura
+Apostolepis,Apostolepis striata,2.3 - Pecuária
+Actinote,Actinote quadra,1 - Desenvolvimento residencial e comercial 2 - Agropecuária e Aquacultura
+Actinote,Actinote zikani,1 - Desenvolvimento residencial e comercial
+Actinote,Actinote zikani,1.1 - Expansão urbana 1 - Desenvolvimento residencial e comercial
+Actinote,Actinote zikani,1.2 - Áreas comerciais e industriais 9 - Poluição
+Actinote,Actinote zikani,9.5 - Poluição do ar
+Actinote,Actinote zikani,9.5.1 - Chuva ácida 9 - Poluição
+Actinote,Actinote zikani,9.5 - Poluição do ar
+Actinote,Actinote zikani,9.5.2 - Fumaça (industrial veículos etc)
+Aguarunichthys,Aguarunichthys tocantinsensis,3 - Produção energética e mineração
+Aguarunichthys,Aguarunichthys tocantinsensis,3.3 - Energia renovável
+Aguarunichthys,Aguarunichthys tocantinsensis,3.3.1 - Hidrelétricas 7 - Modificações nos sistemas naturais
+Anthus,Anthus nattereri,2 - Agropecuária e Aquacultura
+Anthus,Anthus nattereri,2.1 - Culturas anuais e perenes não-madeireiras
+Anthus,Anthus nattereri,2.1.3 - Agricultura agro-industrial 2 - Agropecuária e Aquacultura
+Anthus,Anthus nattereri,2.2 - Silvicultura
+Anthus,Anthus nattereri,2.2.3 - Plantações em escala desconhecida 2 - Agropecuária e Aquacultura
+Anthus,Anthus nattereri,2.3 - Pecuária
+Anthus,Anthus nattereri,2.3.4 - Pecuária em escala desconhecida 6 - Distúrbios humanos
+Anthus,Anthus nattereri,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Anthus,Anthus nattereri,7.1 - Incêndios e supressão de incêndios
+Anthus,Anthus nattereri,7.1.1 - Aumento da frequência/intensidade de incêndios 8 - Espécies invasoras problemáticas e doenças
+Anthus,Anthus nattereri,8.2 - Espécies domésticas
+Anthus,Anthus nattereri,8.2.1 - Competidores 9 - Poluição
+Anthus,Anthus nattereri,9.3 - Agropecuária e florestal
+Anthus,Anthus nattereri,9.3.3 - Herbicidas e pesticidas
+Alouatta,Alouatta belzebul,11 - Mudanças e extremos climáticos
+Alouatta,Alouatta belzebul,11.1 - Mudança/alteração de habitat 1 - Desenvolvimento residencial e comercial
+Alouatta,Alouatta belzebul,1.1 - Expansão urbana 1 - Desenvolvimento residencial e comercial
+Alouatta,Alouatta belzebul,1.4 - Assentamentos e pequenas propriedades rurais 2 - Agropecuária e Aquacultura
+Alouatta,Alouatta belzebul,2.1 - Culturas anuais e perenes não-madeireiras
+Alouatta,Alouatta belzebul,2.1.3 - Agricultura agro-industrial 2 - Agropecuária e Aquacultura
+Alouatta,Alouatta belzebul,2.2 - Silvicultura
+Alouatta,Alouatta belzebul,2.2.2 - Plantações agro-industriais 2 - Agropecuária e Aquacultura
+Alouatta,Alouatta belzebul,2.3 - Pecuária
+Alouatta,Alouatta belzebul,2.3.3 - Pecuária agro-industrial 3 - Produção energética e mineração
+Alouatta,Alouatta belzebul,3.3 - Energia renovável
+Alouatta,Alouatta belzebul,3.3.1 - Hidrelétricas 4 - Transportes e serviços de transmissão
+Alouatta,Alouatta belzebul,4.1 - Estradas e ferrovias 4 - Transportes e serviços de transmissão
+Alouatta,Alouatta belzebul,4.2 - Atropelamentos 4 - Transportes e serviços de transmissão
+Alouatta,Alouatta belzebul,4.7 - Linhas de força/transmissão 5 - Uso de recursos biológicos
+Alouatta,Alouatta belzebul,5.1 - Caça e captura de animais terrestres ou marinhos
+Alouatta,Alouatta belzebul,5.1.1 - Caça/captura intencional (a espécie é o alvo) 5 - Uso de recursos biológicos
+Alouatta,Alouatta belzebul,5.3 - Extração florestal
+Alouatta,Alouatta belzebul,5.3.1 - Uso intencional - subsistência/pequena escala 5 - Uso de recursos biológicos
+Alouatta,Alouatta belzebul,5.3 - Extração florestal
+Alouatta,Alouatta belzebul,5.3.2 - Uso intencional - larga escala 7 - Modificações nos sistemas naturais
+Alouatta,Alouatta belzebul,7.1 - Incêndios e supressão de incêndios
+Alouatta,Alouatta belzebul,7.1.1 - Aumento da frequência/intensidade de incêndios
+Alouatta,Alouatta discolor,1 - Desenvolvimento residencial e comercial
+Alouatta,Alouatta discolor,1.4 - Assentamentos e pequenas propriedades rurais 2 - Agropecuária e Aquacultura
+Alouatta,Alouatta discolor,2.1 - Culturas anuais e perenes não-madeireiras
+Alouatta,Alouatta discolor,2.1.3 - Agricultura agro-industrial 2 - Agropecuária e Aquacultura
+Alouatta,Alouatta discolor,2.3 - Pecuária
+Alouatta,Alouatta discolor,2.3.3 - Pecuária agro-industrial 3 - Produção energética e mineração
+Alouatta,Alouatta discolor,3.2 - Mineração
+Alouatta,Alouatta discolor,3.2.4 - Extração de minérios - garimpo 3 - Produção energética e mineração
+Alouatta,Alouatta discolor,3.3 - Energia renovável
+Alouatta,Alouatta discolor,3.3.1 - Hidrelétricas 4 - Transportes e serviços de transmissão
+Alouatta,Alouatta discolor,4.1 - Estradas e ferrovias 5 - Uso de recursos biológicos
+Alouatta,Alouatta discolor,5.1 - Caça e captura de animais terrestres ou marinhos
+Alouatta,Alouatta discolor,5.1.1 - Caça/captura intencional (a espécie é o alvo)
+Alouatta,Alouatta ululata,11 - Mudanças e extremos climáticos
+Alouatta,Alouatta ululata,11.2 - Secas 1 - Desenvolvimento residencial e comercial
+Alouatta,Alouatta ululata,1.1 - Expansão urbana 1 - Desenvolvimento residencial e comercial
+Alouatta,Alouatta ululata,1.4 - Assentamentos e pequenas propriedades rurais 2 - Agropecuária e Aquacultura
+Alouatta,Alouatta ululata,2.1 - Culturas anuais e perenes não-madeireiras
+Alouatta,Alouatta ululata,2.1.3 - Agricultura agro-industrial 2 - Agropecuária e Aquacultura
+Alouatta,Alouatta ululata,2.3 - Pecuária
+Alouatta,Alouatta ululata,2.3.3 - Pecuária agro-industrial 3 - Produção energética e mineração
+Alouatta,Alouatta ululata,3.2 - Mineração
+Alouatta,Alouatta ululata,3.2.3 - Extração de minérios - subsolo 3 - Produção energética e mineração
+Alouatta,Alouatta ululata,3.3 - Energia renovável
+Alouatta,Alouatta ululata,3.3.1 - Hidrelétricas 5 - Uso de recursos biológicos
+Alouatta,Alouatta ululata,5.1 - Caça e captura de animais terrestres ou marinhos
+Alouatta,Alouatta ululata,5.1.1 - Caça/captura intencional (a espécie é o alvo) 8 - Espécies invasoras problemáticas e doenças
+Alouatta,Alouatta ululata,8.4 - Espécies problemáticas de origem desconhecida
+Alouatta,Alouatta ululata,8.4.2 - Espécie não conhecida
+Alouatta,Alouatta ululata,8.4.2.1 - Competidores
+Aceratobasis,Aceratobasis cornicauda,1 - Desenvolvimento residencial e comercial
+Aceratobasis,Aceratobasis cornicauda,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura 2 - Agropecuária e Aquacultura
+Aceratobasis,Aceratobasis cornicauda,2.2 - Silvicultura
+Aceratobasis,Aceratobasis mourei,1 - Desenvolvimento residencial e comercial
+Aceratobasis,Aceratobasis mourei,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura 2 - Agropecuária e Aquacultura
+Aceratobasis,Aceratobasis mourei,2.2 - Silvicultura
+Adebrotus,Adebrotus lugoi,2 - Agropecuária e Aquacultura
+Adebrotus,Adebrotus lugoi,2.3 - Pecuária
+Adebrotus,Adebrotus lugoi,2.3.4 - Pecuária em escala desconhecida 9 - Poluição
+Adebrotus,Adebrotus lugoi,9.1 - Doméstica e urbana - escoamento de água
+Adebrotus,Adebrotus lugoi,9.1.1 - Esgoto 9 - Poluição
+Adebrotus,Adebrotus lugoi,9.3 - Agropecuária e florestal
+Adebrotus,Adebrotus lugoi,9.3.3 - Herbicidas e pesticidas
+Arawacus,Arawacus aethesa,1 - Desenvolvimento residencial e comercial
+Arawacus,Arawacus aethesa,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura
+Arawacus,Arawacus aethesa,2.1 - Culturas anuais e perenes não-madeireiras
+Arawacus,Arawacus aethesa,2.1.4 - Agricultura de escala desconhecida 2 - Agropecuária e Aquacultura
+Arawacus,Arawacus aethesa,2.3 - Pecuária
+Arawacus,Arawacus aethesa,2.3.4 - Pecuária em escala desconhecida 7 - Modificações nos sistemas naturais
+Arawacus,Arawacus aethesa,7.1 - Incêndios e supressão de incêndios
+Arawacus,Arawacus aethesa,7.1.1 - Aumento da frequência/intensidade de incêndios 9 - Poluição
+Arawacus,Arawacus aethesa,9.3 - Agropecuária e florestal
+Arawacus,Arawacus aethesa,9.3.3 - Herbicidas e pesticidas
+Ameiva,Ameiva parecis,2 - Agropecuária e Aquacultura
+Ameiva,Ameiva parecis,2.1 - Culturas anuais e perenes não-madeireiras
+Ameiva,Ameiva parecis,2.1.3 - Agricultura agro-industrial 2 - Agropecuária e Aquacultura
+Ameiva,Ameiva parecis,2.3 - Pecuária
+Ameiva,Ameiva parecis,2.3.3 - Pecuária agro-industrial 3 - Produção energética e mineração
+Ameiva,Ameiva parecis,3.3 - Energia renovável
+Ameiva,Ameiva parecis,3.3.1 - Hidrelétricas 4 - Transportes e serviços de transmissão
+Ameiva,Ameiva parecis,4.1 - Estradas e ferrovias 4 - Transportes e serviços de transmissão
+Ameiva,Ameiva parecis,4.8 - Hidrovias 9 - Poluição
+Ameiva,Ameiva parecis,9.3 - Agropecuária e florestal
+Ameiva,Ameiva parecis,9.3.3 - Herbicidas e pesticidas
+Ameivula,Ameivula nativo,1 - Desenvolvimento residencial e comercial
+Ameivula,Ameivula nativo,1.1 - Expansão urbana
+Amphisbaena,Amphisbaena arda,2 - Agropecuária e Aquacultura
+Amphisbaena,Amphisbaena arda,2.1 - Culturas anuais e perenes não-madeireiras 3 - Produção energética e mineração
+Amphisbaena,Amphisbaena arda,3.2 - Mineração
+Amphisbaena,Amphisbaena arda,3.2.1 - Extração de areia 3 - Produção energética e mineração
+Amphisbaena,Amphisbaena arda,3.3 - Energia renovável
+Amphisbaena,Amphisbaena arda,3.3.3 - Parque de energia solar 5 - Uso de recursos biológicos
+Amphisbaena,Amphisbaena arda,5.3 - Extração florestal
+Amphisbaena,Amphisbaena arda,5.3.3 - Efeitos indiretos - subsistência/pequena escala
+Amphisbaena,Amphisbaena frontalis,2 - Agropecuária e Aquacultura
+Amphisbaena,Amphisbaena frontalis,2.1 - Culturas anuais e perenes não-madeireiras 3 - Produção energética e mineração
+Amphisbaena,Amphisbaena frontalis,3.2 - Mineração
+Amphisbaena,Amphisbaena frontalis,3.2.1 - Extração de areia 3 - Produção energética e mineração
+Amphisbaena,Amphisbaena frontalis,3.3 - Energia renovável
+Amphisbaena,Amphisbaena frontalis,3.3.3 - Parque de energia solar 5 - Uso de recursos biológicos
+Amphisbaena,Amphisbaena frontalis,5.3 - Extração florestal
+Amphisbaena,Amphisbaena frontalis,5.3.3 - Efeitos indiretos - subsistência/pequena escala
+Amphisbaena,Amphisbaena nigricauda,1 - Desenvolvimento residencial e comercial
+Amphisbaena,Amphisbaena nigricauda,1.1 - Expansão urbana 1 - Desenvolvimento residencial e comercial
+Amphisbaena,Amphisbaena nigricauda,1.3 - Áreas de turismo e recreação 3 - Produção energética e mineração
+Amphisbaena,Amphisbaena nigricauda,3.2 - Mineração
+Amphisbaena,Amphisbaena nigricauda,3.2.1 - Extração de areia 4 - Transportes e serviços de transmissão
+Amphisbaena,Amphisbaena nigricauda,4.3 - Portos
+Amphisbaena,Amphisbaena supernumeraria,1 - Desenvolvimento residencial e comercial
+Amphisbaena,Amphisbaena supernumeraria,1.1 - Expansão urbana 2 - Agropecuária e Aquacultura
+Amphisbaena,Amphisbaena supernumeraria,2.1 - Culturas anuais e perenes não-madeireiras
+Amphisbaena,Amphisbaena supernumeraria,2.1.3 - Agricultura agro-industrial 2 - Agropecuária e Aquacultura
+Amphisbaena,Amphisbaena supernumeraria,2.3 - Pecuária
+Amphisbaena,Amphisbaena supernumeraria,2.3.4 - Pecuária em escala desconhecida
+Amphisbaena,Amphisbaena uroxena,2 - Agropecuária e Aquacultura
+Amphisbaena,Amphisbaena uroxena,2.1 - Culturas anuais e perenes não-madeireiras
+Amphisbaena,Amphisbaena uroxena,2.1.3 - Agricultura agro-industrial 7 - Modificações nos sistemas naturais
+Amphisbaena,Amphisbaena uroxena,7.1 - Incêndios e supressão de incêndios
+Amphisbaena,Amphisbaena uroxena,7.1.1 - Aumento da frequência/intensidade de incêndios 9 - Poluição
+Amphisbaena,Amphisbaena uroxena,9.3 - Agropecuária e florestal
+Amphisbaena,Amphisbaena uroxena,9.3.3 - Herbicidas e pesticidas
+Ancistrus,Ancistrus cryptophthalmus,2 - Agropecuária e Aquacultura
+Ancistrus,Ancistrus cryptophthalmus,2.1 - Culturas anuais e perenes não-madeireiras
+Ancistrus,Ancistrus cryptophthalmus,2.1.4 - Agricultura de escala desconhecida 2 - Agropecuária e Aquacultura
+Ancistrus,Ancistrus cryptophthalmus,2.3 - Pecuária
+Ancistrus,Ancistrus cryptophthalmus,2.3.4 - Pecuária em escala desconhecida 6 - Distúrbios humanos
+Ancistrus,Ancistrus cryptophthalmus,6.1 - Atividades recreacionais/turísticas 9 - Poluição
+Ancistrus,Ancistrus cryptophthalmus,9.3 - Agropecuária e florestal
+Ancistrus,Ancistrus cryptophthalmus,9.3.2 - Erosão do solo/sedimentação 9 - Poluição
+Ancistrus,Ancistrus cryptophthalmus,9.3 - Agropecuária e florestal
+Ancistrus,Ancistrus cryptophthalmus,9.3.3 - Herbicidas e pesticidas
+Arhysosage,Arhysosage cactorum,2 - Agropecuária e Aquacultura
+Arhysosage,Arhysosage cactorum,2.1 - Culturas anuais e perenes não-madeireiras
+Arhysosage,Arhysosage cactorum,2.1.4 - Agricultura de escala desconhecida 2 - Agropecuária e Aquacultura
+Arhysosage,Arhysosage cactorum,2.2 - Silvicultura
+Arhysosage,Arhysosage cactorum,2.2.3 - Plantações em escala desconhecida 2 - Agropecuária e Aquacultura
+Arhysosage,Arhysosage cactorum,2.3 - Pecuária
+Arhysosage,Arhysosage cactorum,2.3.4 - Pecuária em escala desconhecida 7 - Modificações nos sistemas naturais
+Arhysosage,Arhysosage cactorum,7.1 - Incêndios e supressão de incêndios
+Arhysosage,Arhysosage cactorum,7.1.1 - Aumento da frequência/intensidade de incêndios 9 - Poluição
+Arhysosage,Arhysosage cactorum,9.3 - Agropecuária e florestal
+Arhysosage,Arhysosage cactorum,9.3.3 - Herbicidas e pesticidas
+Altitatiayus,Altitatiayus campoi,6 - Distúrbios humanos
+Altitatiayus,Altitatiayus campoi,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Altitatiayus,Altitatiayus campoi,7.1 - Incêndios e supressão de incêndios
+Altitatiayus,Altitatiayus campoi,7.1.1 - Aumento da frequência/intensidade de incêndios
+Altitatiayus,Altitatiayus dulceae,11 - Mudanças e extremos climáticos 6 - Distúrbios humanos
+Altitatiayus,Altitatiayus dulceae,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Altitatiayus,Altitatiayus dulceae,7.1 - Incêndios e supressão de incêndios
+Altitatiayus,Altitatiayus dulceae,7.1.1 - Aumento da frequência/intensidade de incêndios
+Altitatiayus,Altitatiayus godinhorum,11 - Mudanças e extremos climáticos 6 - Distúrbios humanos
+Altitatiayus,Altitatiayus godinhorum,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Altitatiayus,Altitatiayus godinhorum,7.1 - Incêndios e supressão de incêndios
+Altitatiayus,Altitatiayus godinhorum,7.1.1 - Aumento da frequência/intensidade de incêndios
+Altitatiayus,Altitatiayus koikei,11 - Mudanças e extremos climáticos 6 - Distúrbios humanos
+Altitatiayus,Altitatiayus koikei,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Altitatiayus,Altitatiayus koikei,7.1 - Incêndios e supressão de incêndios
+Altitatiayus,Altitatiayus koikei,7.1.1 - Aumento da frequência/intensidade de incêndios
+Altitatiayus,Altitatiayus rotundatus,11 - Mudanças e extremos climáticos 6 - Distúrbios humanos
+Altitatiayus,Altitatiayus rotundatus,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Altitatiayus,Altitatiayus rotundatus,7.1 - Incêndios e supressão de incêndios
+Altitatiayus,Altitatiayus rotundatus,7.1.1 - Aumento da frequência/intensidade de incêndios
+Altitatiayus,Altitatiayus ruficollis,11 - Mudanças e extremos climáticos 6 - Distúrbios humanos
+Altitatiayus,Altitatiayus ruficollis,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Altitatiayus,Altitatiayus ruficollis,7.1 - Incêndios e supressão de incêndios
+Altitatiayus,Altitatiayus ruficollis,7.1.1 - Aumento da frequência/intensidade de incêndios
+Altitatiayus,Altitatiayus trifurcatus,11 - Mudanças e extremos climáticos 6 - Distúrbios humanos
+Altitatiayus,Altitatiayus trifurcatus,6.1 - Atividades recreacionais/turísticas 7 - Modificações nos sistemas naturais
+Altitatiayus,Altitatiayus trifurcatus,7.1 - Incêndios e supressão de incêndios
+Altitatiayus,Altitatiayus trifurcatus,7.1.1 - Aumento da frequência/intensidade de incêndios
+Amydetes,Amydetes bellorum,1 - Desenvolvimento residencial e comercial
+Amydetes,Amydetes bellorum,1.1 - Expansão urbana 9 - Poluição
+Amydetes,Amydetes bellorum,9.6 - Excesso de energia
+Amydetes,Amydetes bellorum,9.6.1 - Poluição luminosa
+Achirus,Achirus mucuri,10 - Eventos geológicos 1 - Desenvolvimento residencial e comercial 5 - Uso de recursos biológicos 5 - Uso de recursos biológicos
+Achirus,Achirus mucuri,5.4 - Pesca e uso de recursos aquáticos 5 - Uso de recursos biológicos
+Achirus,Achirus mucuri,5.4 - Pesca e uso de recursos aquáticos
+Achirus,Achirus mucuri,5.4.5 - Captura indireta - subsistência/pequena escala
+Achirus,Achirus mucuri,5.4.5.6 - Arrasto 7 - Modificações nos sistemas naturais 7 - Modificações nos sistemas naturais
+Achirus,Achirus mucuri,7.3 - Outras modificações nos ecossistemas

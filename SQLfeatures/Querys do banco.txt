@@ -1,0 +1,209 @@
+Querys do banco:
+
+create database ecobase;
+
+use ecobase;
+
+create table tb_especies(
+id int auto_increment,
+reino enum('Animalia', 'Vegetal', 'Fungi', 'Protista', 'Monera') not null,
+especie varchar(50) not null,
+nome_comum varchar(100) default 'Não Consta',
+grupo varchar(50) not null,
+mes_ano_avaliacao varchar(7) not null,
+endemica_brasil enum('Sim', 'Não', 'Não Consta') not null,
+consta_em_lista_nacional_oficial enum('Sim', 'Não', 'Não Consta') not null,
+bioma varchar(50) not null,
+bacia_hidrografica varchar(500) default 'Não Consta', 
+constraint pk_especie primary key (id)
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Tabela Principal.csv'
+into table tb_especies
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(reino, especie, nome_comum, grupo, mes_ano_avaliacao, endemica_brasil, consta_em_lista_nacional_oficial, bioma, bacia_hidrografica);
+
+select * from tb_especies;
+
+create table tb_regiao(
+id int auto_increment,
+regiao varchar(30) not null,
+estado varchar(50) not null,
+constraint pk_regiao primary key (id)
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Regiao tabela.csv'
+into table tb_regiao
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(regiao, estado);
+
+select * from tb_regiao;
+
+use ecobase;
+
+create table tb_localizacao(
+regiao_id int not null references tb_regiao(id),
+nome_especie varchar(50) not null references tb_especies(especie)
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Tabela_localizacao.csv'
+into table tb_localizacao
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(regiao_id, nome_especie );
+
+select * from tb_localizacao;
+
+use ecobase;
+
+create table tb_categoria(
+categoria enum('Em Perigo', 'Criticamente em Perigo', 'Vulnerável', 'Regionalmente Extinta') not null,
+nome_especie varchar(50) not null references tb_especies(especie)
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Tabela_Categoria.csv'
+into table  tb_categoria
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(categoria, nome_especie );
+
+select * from  tb_categoria;
+
+
+use ecobase;
+
+create table tb_autor(
+nome_especie varchar(50) not null references tb_especies(especie),
+autor varchar(100) not null
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Tabela_autor.csv'
+into table  tb_autor
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(nome_especie, autor );
+
+select * from  tb_autor;
+
+
+use ecobase;
+
+create table tb_genero(
+genero varchar(50) not null,
+nome_especie varchar(50) not null references tb_especies(especie)
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Tabela_Genero.csv'
+into table  tb_genero
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(genero, nome_especie );
+
+select * from  tb_genero;
+
+use ecobase;
+
+create table tb_familia(
+familia varchar(50) not null,
+genero varchar(50) not null references tb_genero(genero)
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Tabela_Familia.csv'
+into table  tb_familia
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(familia, genero);
+
+select * from  tb_familia;
+
+
+use ecobase;
+
+create table tb_ordem(
+ordem varchar(50) not null,
+familia varchar(50) not null references tb_familia(familia)
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Tabela_Ordem.csv'
+into table  tb_ordem
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(ordem, familia);
+
+select * from  tb_ordem;
+
+use ecobase;
+
+create table tb_classe(
+classe varchar(50) not null,
+ordem varchar(50) not null references tb_ordem(ordem)
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Tabela_Classe.csv'
+into table  tb_classe
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(classe, ordem);
+
+select * from  tb_classe;
+
+use ecobase;
+
+create table tb_filo(
+filo varchar(50) not null,
+classe varchar(50) not null references tb_classe(classe)
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Tabela_Filo.csv'
+into table  tb_filo
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(filo, classe);
+
+select * from  tb_filo;
+
+use ecobase;
+
+create table tb_ameaca(
+genero varchar(50) not null references tb_genero(genero),
+nome_especie varchar(50) not null references tb_especies(especie),
+ameaca varchar(300) not null
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Ameaca_Tabela.csv'
+into table  tb_ameaca
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(genero, nome_especie, ameaca);
+
+select * from  tb_ameaca;
+
+use ecobase;
+
+create table tb_uso(
+genero varchar(50) not null references tb_genero(genero),
+nome_especie varchar(50) not null references tb_especies(especie),
+uso varchar(300) not null
+);
+
+load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Uso_Tabela.csv'
+into table  tb_uso
+fields terminated by ','
+lines terminated by '\n'
+ignore 1 rows
+(genero, nome_especie, uso);
+
+select * from  tb_uso;
